@@ -97,8 +97,8 @@ ul.topbar {
 .post_list {
 	width: 70.2%;
 	margin: 0 auto;
-	min-height: 150px;
-	max-height: 150px;
+	min-height: 250px;
+	max-height: 250px;
 	overflow-y: scroll;
 	display: inline-block;
 
@@ -130,8 +130,8 @@ ul.topbar {
 .tag_list {
 	width: 28%;
 	margin: 0 auto;
-	min-height: 150px;
-	max-height: 150px;
+	min-height: 250px;
+	max-height: 250px;
 	overflow-y: scroll;
 	display: inline-block;
 
@@ -167,8 +167,8 @@ ul.topbar {
 }
 #tag-list li ul li {
     background:transparent url(/assets/img/pixel-alt.png) repeat-x 0 8px;
-    margin:4px 0 4px 13px;
-    padding:0 0 0 20px;
+    margin:5px 0 5px 13px;
+    padding: 2px 0 0 20px;
 }
 .post_total {
 	.left, .right {

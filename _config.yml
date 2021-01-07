@@ -18,16 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Marcos Horro
-name: Marcos Horro
+title: Markos Horro
+name: Markos Horro
 email: marcos.horro@udc.es
 description: >- # this means to ignore newlines until "baseurl:"
   Ecléctico
-permalink: /:year:month:day/:title
+permalink: /:categories/:title
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: markoshorro
 github_username: markoshorro
+
+collections:
+  aboutme:
+    output: true
+    label: "About me"
+  projects:
+    output: true
+    label: "Projects"
 
 # File management
 include: [".htaccess"]
