@@ -1,4 +1,0 @@
----
-name: "TejasKNL"
-layout: default
----
