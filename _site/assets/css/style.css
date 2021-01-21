@@ -115,9 +115,9 @@ p {
 
 a {
   text-decoration: none;
-  border: 3px solid green;
+  border: 2px solid green;
   color: black;
-  padding: 1px;
+  padding: 0px;
 }
 
 .footerSize {
