@@ -1,6 +1,10 @@
 info:
   title: "Markos Horro - My Personal Website"
-  date: "January 2021"
+  date: "Last Update: January 2021"
+
+other_lang: "Galego"
+other_lang_link: "/gl"
+blog_link: "Personal blog"
 
 abstract: "In this paper I am presenting myself. Even though I am a Computer \
   Engineer, I am not a web designer, as you could easily extrapolate from this \

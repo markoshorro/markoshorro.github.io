@@ -68,8 +68,31 @@ figure figcaption {
 }
 
 .Margins {
-  padding-left: 25%;
-  width: 48%;
+  padding-left: 5%;
+  width: 90%;
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  .Margins {
+    padding-left: 5%;
+    width: 85%;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  /* For desktop: */
+  .Margins {
+    padding-left: 10%;
+    width: 70%;
+  }
+
+@media only screen and (min-width: 1200px) {
+  /* For desktop: */
+  .Margins {
+    padding-left: 25%;
+    width: 48%;
+  }
 }
 
 .AbstractMargins {

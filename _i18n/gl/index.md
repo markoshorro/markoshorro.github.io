@@ -5,7 +5,7 @@ grafía 'k'. Actualmente son contratado predoutoral (FPU) no Grupo de Arquitectu
 de Computadores (GAC) na Universidade da Coruña (UDC).
 
 <figure>
-<img style="width: 50%;" src="../assets/img/profile.png"/>
+<img style="width: 70%;" src="../assets/img/profile.png"/>
 <figcaption>Figura 1: Desafortunadamente, esta imaxe ilustra perfectamente a miña cara.</figcaption>
 </figure>
 
@@ -13,29 +13,31 @@ Podes contactar conmigo no enderezo <span class="email">marcos.horro(at)udc.gal<
 
 # 2 &ensp; Estado do arte
 
-Nesta sección resumo a miña experiencia, educación, premios e proxectos. O meu
+Nesta sección resumo a miña experiencia, educación, recoñecementos e proxectos. O meu
 perfil completo está público na rede de <a
 href="https://www.linkedin.com/in/marcoshorro/">LinkedIn</a>.
 
 ## 2.1 &ensp; Experiencia
 
-  <ul>
-    <li>Out 2017 - presente. Contratado Predoutoral (PC-PD) no Grupo de Arquitectura de Computadores (FPU-MECD) na Universidade da Coruña (UDC)</li>
-    <li>Xun 2016 - Out 2017. Investigador en Formación no Grupo de Arquitectura de Computadores na Universidade da Coruña (UDC)</li>
-    <li>Xan 2015 - Xun 2015. Beca no Departamento de Electrónica e Sistemas na Universidade da Coruña (UDC).</li>
-  </ul>
+  <dl>
+    <dt>Contratado Predoutoral (PC-PD) no Grupo de Arquitectura de Computadores (FPU-MECD)</dt><dd>Out 2017 - presente</dd>
+    <dt>Investigador Visitante (estadía predoutoral) co Computer Science Department na Colorado State University (CSU). Fort Collins, CO</dt><dd>Out 2019 - Xan 2020 </dd>
+    <dt>Investigador en Formación no Grupo de Arquitectura de Computadores (GAC)</dt><dd>Xun 2016 - Out 2017</dd>
+    <dt>Becario no Departamento de Electrónica e Sistemas (Universidade da Coruña).</dt><dd>Xan 2015 - Xun 2015</dd>
+  </dl>
 
 ## 2.2 &ensp; Educación
 
-  <ul>
-    <li>Doutorado en Investigación en Tecnoloxías da Información, 2017-presente. Universidade da Coruña.</li>
-    <li>Mestrado Universitario en Enxeñaría Informática (MUEI), 2016-2018. Universidade da Coruña.</li>
-    <li>Grao en Enxeñaría Informática, 2012-2016. Universidade da Coruña.</li>
-    <ul>
-      <li>Erasmus na Chalmers University of Technology (Suecia), 2015-2016.</li>
-    </ul>
-    <li>Bacharelato en Ciencias, 2010-2012. IES Ramón Cabanillas.</li>
-  </ul>
+Polos estudos universitarios listados abaixo, coido que queda claro que a miña
+alma máter é a Universidade da Coruña:
+
+  <dl>
+    <dt>Programa Oficial de Doutoramento en Investigación e Tecnoloxías da Información</dt><dd> 2017-presente. Universidade da Coruña</dd>
+    <dt>Mestrado Universitario en Enxeñaría Informática (MUEI)</dt><dd> 2016 - 2018. Universidade da Coruña</dd>
+    <dt>Erasmus na Chalmers University of Technology (Suecia)</dt><dd> Set 2015 - Xan 2016</dd>
+    <dt>Grao en Enxeñaría Informática</dt><dd> 2012 - 2016. Universidade da Coruña</dd>
+    <dt>Bacharelato en Ciencias</dt><dd> 2010 - 2012. IES Ramón Cabanillas</dd>
+  </dl>
 
 ## 2.3 &ensp; Recoñecementos
 
@@ -95,7 +97,7 @@ lles presto moita atención.
 
 Real Club Deportivo de la Coruña: o mellor equipo da Galiza. Fan de Valentino
 Rossi. Encántame o xadrez, pero son malísimo. A miña mellor marca facendo cubos
-de Rubik é de 1' 29". Xogo bastante ó Age of Empires II. Toco o piano. Antes iba a circuito
+de Rubik é de 1' 25". Xogo bastante ó Age of Empires II. Toco o piano. Antes iba a circuito
 con motos, pero xa fai diso, desgraciadamente.
 
 # Agradecementos

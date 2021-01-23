@@ -5,7 +5,7 @@ currently, a PhD student with the Computer Architecture Group at the University
 of A Coruña.
 
 <figure>
-<img style="width: 50%;" src="../assets/img/profile.png"/>
+<img style="width: 70%;" src="../assets/img/profile.png"/>
 <figcaption>Figure 1: This is what my face looks like, unfortunately for me.</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ mind.
 ## 3.3 &ensp; Other interests
 
 Real Club Deportivo de la Coruña supporter, best galician team ever. Valentino
-Rossi fan. I love chess, bad at it. My PR as a 'speedcuber' is 1'29". I play
+Rossi fan. I love chess, bad at it. My PR as a 'speedcuber' is 1'25". I play
 Age of Empires II, and also piano. I used to ride motorbikes, long time ago.
 
 # Acknowledgements

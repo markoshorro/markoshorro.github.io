@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta
       name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+      content="width=device-width, initial-scale=1, shrink-to-fit=yes"
     />
     <meta
       name="description"
@@ -25,6 +25,18 @@
   </head>
   <body>
     <div class="Margins">
+      <p>
+        <a
+          href="{% t other_lang_link %}"
+          style="border: none; text-decoration: underline; color: blue"
+          >{% t other_lang %}</a
+        >
+        <a
+          href="https://blog.marcoshorro.com/"
+          style="border: none; text-decoration: underline; color: blue"
+          >{% t blog_link %}</a
+        >
+      </p>
       <p class="LatexTitle">{% t info.title %}</p>
       {% if page.creator %}
       <p class="LatexName">{{ page.creator }}</p>
