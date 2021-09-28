@@ -2,7 +2,7 @@
 title: My Personal Webpage
 email: marcos.horro@udc.es
 description: > # this means to ignore newlines until "baseurl:"
-  Just another personal webpage.
+  Just another personal webpage: Markos Horro
 # baseurl: "/index" # the subpath of your site, e.g. /blog/
 url: "http://marcoshorro.com" # the base hostname & protocol for your site
 twitter_username: markoshorro

@@ -16,6 +16,8 @@ You can contact me at <span class="email">marcos.horro(at)udc.gal</span>.
 In this section I will summarize my experience, education, awards and projects.
 My full profile is available at <a href="https://www.linkedin.com/in/marcoshorro/">LinkedIn</a>.
 
+You can also find my <a href="cvpage.html">interactive CV here</a>.
+
 ## 2.1 &ensp; Experience
 
 My short professional run:
@@ -76,9 +78,11 @@ All my publications are listed below in the References section. Here is my
 professional service with regard to research:
 
 <ul>
-  <li>Twice reviewer at IEEE Access (Q1).</li>
-  <li>CC 2021: Artifact Evaluation (core A).</li>
+  <li>Twice reviewer at IEEE Access (Q1, JCR 2020).</li>
+  <li>CC 2021: Artifact Evaluation (formerly core A, reranked core B in <a href="http://portal.core.edu.au/core/media/justification/CORE2021/4606CC.pdf">CORE2021</a>).</li>
   <li>CGO 2021: Artifact Evaluation (core A).</li>
+  <li>MICRO 2021: Artifact Evaluation (core A).</li>
+  <li>PACT 2021: Artifact Evaluation (formerly core A, reranked core B in <a href="http://portal.core.edu.au/core/media/justification/CORE2021/4606PACT.pdf">CORE2021</a>).</li>
 </ul>
 
 My research profiles can be found in the following sites:

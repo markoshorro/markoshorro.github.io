@@ -17,6 +17,9 @@ Nesta sección resumo a miña experiencia, educación, recoñecementos e proxect
 perfil completo está público na rede de <a
 href="https://www.linkedin.com/in/marcoshorro/">LinkedIn</a>.
 
+Podes atopar o meu <a href="cvpage.html">CV
+interactivo nesta ligazón</a>.
+
 ## 2.1 &ensp; Experiencia
 
   <dl>
@@ -75,9 +78,11 @@ Todas as miñas publicacións están listadas na sección Bibliografía. O meu
 servizo profesional como investigador:
 
 <ul>
-  <li>Dúas veces revisor na IEEE Access (Q1).</li>
-  <li>CC 2021: Artifact Evaluation (core A).</li>
-  <li>CGO 2021: Artifact Evaluation (core A).</li>
+  <li>Dúas veces revisor na IEEE Access (Q1, JCR 2020).</li>
+  <li>CC 2021: Artifact Evaluation (antigamente core A, agora core B segundo o <a href="http://portal.core.edu.au/core/media/justification/CORE2021/4606CC.pdf">CORE2021</a>).</li>
+  <li>CGO 2021: Artifact Evaluation (core A, CORE2020).</li>
+  <li>MICRO 2021: Artifact Evaluation (core A, CORE2018).</li>
+  <li>PACT 2021: Artifact Evaluation (antigamente core A, agora core B segundo o <a href="http://portal.core.edu.au/core/media/justification/CORE2021/4606PACT.pdf">CORE2021</a>).</li>
 </ul>
 
 Nas seguintes ligazóns tedes os meus perfís como investigador:
