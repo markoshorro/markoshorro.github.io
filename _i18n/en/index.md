@@ -1,15 +1,13 @@
 # 1 &ensp; Introduction
 
-My name is Marcos Horro (see Figure 1), even though I usually write it with 'k'. I am,
-currently, a PhD student with the Computer Architecture Group at the University
-of A Coruña.
+My name is Marcos Horro (see Figure 1), even though I usually write it with 'k'. I am working as a Computer Architect @ AMD within the Adaptative and Embedded Computing Group in Dublin, Ireland.
 
 <figure>
 <img style="width: 70%;" src="../assets/img/profile.png"/>
 <figcaption>Figure 1: This is what my face looks like, unfortunately for me.</figcaption>
 </figure>
 
-You can contact me at <span class="email">marcos.horro(at)udc.gal</span>.
+You can contact me at <span class="email">marcosh(at)amd.com</span>.
 
 # 2 &ensp; State of the art
 
@@ -22,12 +20,15 @@ You can also find my <a href="cvpage.html">interactive CV here</a>.
 
 My short professional run:
 
-  <dl>
-    <dt>PhD Student at Computer Architecture Group (FPU-MECD).</dt><dd>Oct 2017 - present.</dd>
-    <dt>Research Visitor Fellow with the Computer Science Department at Colorado State University (CSU). Fort Collins, CO.</dt><dd>Oct 2019 - Jan 2020. </dd>
-    <dt>Research Intern at Computer Architecture Group.</dt><dd>Jun 2016 - Oct 2017.</dd>
-    <dt>Internship at Department of Electronics and Systems (University of A Coruña).</dt><dd>Jan 2015 - Jun 2015.</dd>
-  </dl>
+<dl>
+  <dt>Computer Architect in AMD. Dublin, Ireland.</dt><dd>Apr 2022 - present.</dd>
+  <dt>Researcher/PhD Candidate at Computer Architecture Group (FPU-MECD).</dt><dd>Oct 2017 - Mar 2022.</dd>
+  <dt>Research Visitor Fellow with the Computer Science Department at Colorado State University (CSU). Fort Collins, CO.</dt><dd>Oct 2019 - Jan 2020. </dd>
+  <dt>Research Intern at Computer Architecture Group.</dt><dd>Jun 2016 - Oct 2017.</dd>
+  <dt>Internship at Department of Electronics and Systems (University of A Coruña).</dt><dd>Jan 2015 - Jun 2015.</dd>
+</dl>
+
+
 
 ## 2.2 &ensp; Education
 
@@ -35,7 +36,7 @@ For all elements that will be listed below, I think it is pretty clear that my
 alma mater is the University of A Coruña.
 
   <dl>
-    <dt>PhD Computer Science</dt><dd> 2017-present. University of A Coruña.</dd>
+    <dt>PhD Computer Science</dt><dd> 2017-2022. University of A Coruña.</dd>
     <dt>MSc Computer Science</dt><dd> 2016-2018. University of A Coruña.</dd>
     <dt>Erasmus at Chalmers University of Technology (Sweden)</dt><dd> 2015-2016.</dd>
     <dt>BSc Computer Science</dt><dd>  2012-2016. University of A Coruña.</dd>
@@ -45,6 +46,7 @@ alma mater is the University of A Coruña.
 ## 2.3 &ensp; Awards
 
   <ul>
+    <li>2022. Cum Laude mention in my Thesis: "Modern Manycore Architectures and SIMD Optimization for High Performance Computing".</li>
     <li>2019. HiPEAC Paper Award for [3].</li>
     <li>2019. UDC-Inditex Grant for accomplishing international PhD.</li>
     <li>2019. Finalist Best End-of-Master Project. Galician Computer Engineering College.</li>

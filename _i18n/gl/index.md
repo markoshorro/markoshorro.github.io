@@ -1,15 +1,14 @@
 # 1 &ensp; Introducción
 
 Chámome Marcos Horro (ver Figura 1), inda que normalmente escribo meu nome ca
-grafía 'k'. Actualmente son contratado predoutoral (FPU) no Grupo de Arquitectura
-de Computadores (GAC) na Universidade da Coruña (UDC).
+grafía 'k'. Actualmente traballo como Computer Architect en AMD, en Dublín, Irlanda.
 
 <figure>
 <img style="width: 70%;" src="../assets/img/profile.png"/>
 <figcaption>Figura 1: Desafortunadamente, esta imaxe ilustra perfectamente a miña cara.</figcaption>
 </figure>
 
-Podes contactar conmigo no enderezo <span class="email">marcos.horro(at)udc.gal</span>.
+Podes contactar conmigo no enderezo <span class="email">marcosh(at)amd.com</span>.
 
 # 2 &ensp; Estado do arte
 
@@ -22,8 +21,9 @@ interactivo nesta ligazón</a>.
 
 ## 2.1 &ensp; Experiencia
 
-  <dl>
-    <dt>Contratado Predoutoral (PC-PD) no Grupo de Arquitectura de Computadores (FPU-MECD)</dt><dd>Out 2017 - presente</dd>
+  <dl>    
+    <dt>Computer Architect @ AMD</dt><dd>Abril 2022 - presente</dd>
+    <dt>Contratado Predoutoral (PC-PD) no Grupo de Arquitectura de Computadores (FPU-MECD)</dt><dd>Out 2017 - Marzo 2022</dd>
     <dt>Investigador Visitante (estadía predoutoral) co Computer Science Department na Colorado State University (CSU). Fort Collins, CO</dt><dd>Out 2019 - Xan 2020 </dd>
     <dt>Investigador en Formación no Grupo de Arquitectura de Computadores (GAC)</dt><dd>Xun 2016 - Out 2017</dd>
     <dt>Becario no Departamento de Electrónica e Sistemas (Universidade da Coruña).</dt><dd>Xan 2015 - Xun 2015</dd>
@@ -35,7 +35,7 @@ Polos estudos universitarios listados abaixo, coido que queda claro que a miña
 alma máter é a Universidade da Coruña:
 
   <dl>
-    <dt>Programa Oficial de Doutoramento en Investigación e Tecnoloxías da Información</dt><dd> 2017-presente. Universidade da Coruña</dd>
+    <dt>Programa Oficial de Doutoramento en Investigación e Tecnoloxías da Información</dt><dd> 2017-2022. Universidade da Coruña</dd>
     <dt>Mestrado Universitario en Enxeñaría Informática (MUEI)</dt><dd> 2016 - 2018. Universidade da Coruña</dd>
     <dt>Erasmus na Chalmers University of Technology (Suecia)</dt><dd> Set 2015 - Xan 2016</dd>
     <dt>Grao en Enxeñaría Informática</dt><dd> 2012 - 2016. Universidade da Coruña</dd>
@@ -45,6 +45,7 @@ alma máter é a Universidade da Coruña:
 ## 2.3 &ensp; Recoñecementos
 
   <ul>
+    <li>2022. Mención Cum Laude na Tese doutoral: "Modern Manycore Architectures and SIMD Optimizations for High Performance Computing"</li>
     <li>2019. "HiPEAC Paper Award" polo artigo [3].</li>
     <li>2019. Beca UDC-Inditex para estadías no estranxeiro.</li>
     <li>2019. Finalista no Premio ao mellor TFM. Colexio Profesional de Enxeñaría Informática (CPEIG).</li>
