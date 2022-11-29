@@ -39,7 +39,7 @@ p {
   background-color: rgb(172, 173, 168);
   padding: 3px;
   text-align: center;
-  width: 150px;
+  width: auto;
 }
 
 .blink {

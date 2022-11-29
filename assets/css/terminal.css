@@ -32,10 +32,11 @@ body, html {
 input.cmd-ln {
   display: inline;
   font: 14px/20px Monaco, monospace;
-  background-color: #000;
+  background-color: #000000;
   border: 0px;
   outline: none;
-  color: #fff;
+  caret-color: #55ff55;
+  color: #ffffff;
   width: auto;
   margin-bottom: 0;
 }
